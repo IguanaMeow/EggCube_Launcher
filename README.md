@@ -2,9 +2,6 @@
 
 Game launcher made with QT4 and QT5. 
 
-###### Image
-![alt text](http://hamster.bgx.ro/~iguana/images/launcher.png "Launcher")
-
 ###### Quick summary
 Mirror to the Bitbucket QT Game Launcher's downloads.
 
