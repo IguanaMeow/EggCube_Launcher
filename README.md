@@ -1,9 +1,9 @@
 # Launcher README #
 
-Game launcher made with QT4 and QT5. 
+Game launcher made with QT5. 
 
 ###### Quick summary
-Mirror to the Bitbucket QT Game Launcher's downloads.
+[Mirror to the Bitbucket QT Game Launcher's downloads](https://bitbucket.org/iguanameow/assaultcube_launcher).
 
 ###### System Requierments
 Windows 2000 32-bit or higher, Linux 32/64-bit, OSX 64-bit.
