@@ -8,7 +8,7 @@ CUBE_DIR=$(dirname "$(readlink -f "${0}")")
 
 # CUBE_OPTIONS starts AssaultCube with any command line options you choose.
 #CUBE_OPTIONS="-f"
-CUBE_OPTIONS="--home=${HOME}/.assaultcube_v1.2 --init -mgc.eggcube.party --masterport=28760 --mastertype=0"
+CUBE_OPTIONS="--home=${HOME}/.assaultcube_v1.2 --init -mgc.fr.to --masterport=28760 --mastertype=0"
 
 # SYSTEM_NAME should be set to the name of your operating system.
 #SYSTEM_NAME=Linux
