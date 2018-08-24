@@ -3,7 +3,7 @@
 EggCube Launcher for AssaultCube related games made using Qt5. 
 
 ###### Quick summary
-[Mirror to the Bitbucket QT Game Launcher's downloads](https://bitbucket.org/iguanameow/assaultcube_launcher).
+[Mirror to the Bitbucket QT Game Launcher's downloads](https://bitbucket.org/iguanameow/eggcube_launcher).
 
 ###### System Requierments
 Windows 2000 32-bit or higher, Linux 32/64-bit, OSX 64-bit.
@@ -12,7 +12,7 @@ Windows 2000 32-bit or higher, Linux 32/64-bit, OSX 64-bit.
 1.1b
 
 ##### **Downloads and Updates**
-**[Bitbucket](https://bitbucket.org/iguanameow/assaultcube_launcher/downloads)** | **[Github](https://github.com/IguanaMeow/launcher/releases)**
+**[Bitbucket](https://bitbucket.org/iguanameow/eggcube_launcher/downloads)** | **[Github](https://github.com/IguanaMeow/eggcube_launcher/releases)**
 
 ###### SHA256 Hashes
 ```
